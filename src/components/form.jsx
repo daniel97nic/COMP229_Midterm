@@ -78,7 +78,7 @@ function Form(){
             <br></br>
 
             <label htmlFor="lastname">Last Name</label>
-            <input type="text" id="lastname" value={name} onChange={handleLastNameChange} />
+            <input type="text" id="lastname" value={lastName} onChange={handleLastNameChange} />
             <br></br>
 
             <label htmlFor="email">Email</label>
